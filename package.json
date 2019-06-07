@@ -1,0 +1,23 @@
+{
+  "name": "ttadot",
+  "version": "1.0.0",
+  "description": "test technique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "REST"
+  ],
+  "author": "shedelin",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.0",
+    "express": "^4.17.1",
+    "geolib": "^3.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
